@@ -20,6 +20,16 @@ public class RLEConsole{
         }
 
         System.out.println("Entrée : "+in);
-        System.out.println("Sortie : "+ Algo.RLE(in));
+        try {
+            System.out.println("Sortie : "+ Algo.RLE(in,2));
+        } catch (AlgoException e) {
+            e.printStackTrace();
+        }
+        try {
+            System.out.println("Décompression : "+ Algo.unRLE(Algo.RLE(in)));
+        } catch (AlgoException e) {
+            
+            e.printStackTrace();
+        }
     }
 }
