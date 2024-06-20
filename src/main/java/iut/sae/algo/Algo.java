@@ -38,7 +38,7 @@ public class Algo {
         return "NotYetImplemented";
     }
 
-    public static String unRLE2(String in) throws AlgoException {
+    public static String unRLE(String in) throws AlgoException {
         String out = "";
         boolean fin = false;
         int nb = 0;
