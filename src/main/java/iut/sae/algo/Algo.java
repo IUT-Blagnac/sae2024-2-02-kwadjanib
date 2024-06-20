@@ -33,23 +33,9 @@ public class Algo {
         return out;
     }
 
-    public static String RLE(String in, int iteration) throws AlgoException {
-        String out = "";
-        while (iteration > 0) {
-            out = RLE2(in);
-            iteration--;
-        }
-
-        return out;
-    }
-    private static String RLE2(String in,int iteration) {
-        String out = "";
-        int cpt = 0;
-        int nb = 0;
-        
-            
-        
-        return null;
+    public static String RLE(String in, int iteration) throws AlgoException{
+        // Provide your algo here
+        return "NotYetImplemented";
     }
 
     public static String unRLE2(String in) throws AlgoException {
@@ -88,25 +74,9 @@ public class Algo {
 
     }
 
-    public static String unRLE(String in) throws AlgoException {
-        String out = "";
-        for (int i = 0; i < in.length(); i++) {
-            if (Character.isDigit(in.charAt(i))) {
-                int nb = Character.getNumericValue(in.charAt(i));
-                for (int j = 0; j < nb; j++) {
-                    out += in.charAt(i + 1);
-                }
-                i = i + 1;
-            }
-        }
-        return out;
-
-    }
-
-    public static String unRLE(String in, int iteration) throws AlgoException {
-        
-
-       
+    public static String unRLE(String in, int iteration) throws AlgoException{
+        // Provide your algo here
+        return "NotYetImplemented";
 
     }
 }
