@@ -1,4 +1,4 @@
-package iut.sae.algo.simplicité;
+package iut.sae.algo.simplicite;
 import iut.sae.algo.AlgoException;
 
 public class Simplicite19 {

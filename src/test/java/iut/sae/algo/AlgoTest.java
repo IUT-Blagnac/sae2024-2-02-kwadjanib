@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import junit.framework.TestCase;
 import iut.sae.algo.efficacite.*;
-import iut.sae.algo.simplicité.*;
+import iut.sae.algo.simplicite.*;
 
 public class AlgoTest extends TestCase{
 

@@ -1,4 +1,4 @@
-package iut.sae.algo.sobriété;
+package iut.sae.algo.sobriete;
 
 //sobriété 45
 public class Sobriete45 {

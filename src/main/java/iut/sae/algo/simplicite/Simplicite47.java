@@ -1,4 +1,4 @@
-package iut.sae.algo.simplicité;
+package iut.sae.algo.simplicite;
 
 public class Simplicite47{
 
