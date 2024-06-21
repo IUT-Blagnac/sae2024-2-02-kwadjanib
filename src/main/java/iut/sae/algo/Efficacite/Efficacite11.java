@@ -1,6 +1,8 @@
-package iut.sae.algo;
+package iut.sae.algo.Efficacite;
+import iut.sae.algo.AlgoException;
 
-public class Algo{
+//algo11 efficacité
+public class Efficacite11{
     public static String RLE(String in) {
         if (in.length() == 0) return "";
 

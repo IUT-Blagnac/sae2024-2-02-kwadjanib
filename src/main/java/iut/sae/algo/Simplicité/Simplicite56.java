@@ -1,6 +1,7 @@
-package iut.sae.algo;
+package iut.sae.algo.Simplicité;
+import iut.sae.algo.AlgoException;
 
-public class Algo {
+public class Simplicite56{
     public static String RLE(String in) {
         if (in.isEmpty() || in == null) {
             return "";

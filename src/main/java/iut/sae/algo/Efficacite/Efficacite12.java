@@ -1,4 +1,6 @@
-public class Algo {
+package iut.sae.algo.Efficacite;
+
+public class Efficacite12 {
 
     public static String RLE(String chaine) {
         if (chaine == null || chaine.isEmpty()) {

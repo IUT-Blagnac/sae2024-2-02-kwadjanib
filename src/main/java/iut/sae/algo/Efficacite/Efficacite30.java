@@ -1,7 +1,8 @@
-package iut.sae.algo;
+package iut.sae.algo.Efficacite;
+//algo30 efficacité
+import iut.sae.algo.AlgoException;
 
-
-public class Algo{
+public class Efficacite30{
     public static String RLE(String chaine){
         // Utilisation d'un StringBuilder (pour améliorer le temps d'execution) car l'object String ne concatène pas simplement plusieurs chaine.
         // Initialisation d'un compteur et d'un indice

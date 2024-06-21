@@ -1,6 +1,7 @@
-package iut.sae.algo;
+package iut.sae.algo.Sobriété;
 
-public class Sobriete {
+//sobriété 45
+public class Sobriete45 {
     public static String RLE(String in) {
         if (in.isEmpty()) {
             return "";

@@ -1,8 +1,11 @@
+package iut.sae.algo.Efficacite;
+import iut.sae.algo.AlgoException;
+
 /**
  * La classe Efficacite fournit des méthodes pour compresser et décompresser des chaînes de caractères 
  * en utilisant l'algorithme de Run-Length Encoding (RLE).
  */
-public class Efficacite {
+public class Efficacite14 {
 
     /**
      * Compresse une chaîne de caractères en utilisant l'algorithme RLE.

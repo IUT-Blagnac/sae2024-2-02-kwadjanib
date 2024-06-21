@@ -1,7 +1,7 @@
-package iut.sae.algo;
+package iut.sae.algo.Simplicité;
+import iut.sae.algo.AlgoException;
 
-
-public class Simplicite{
+public class Simplicite34{
     public static String RLE(String in){
         String resultat="";
         int len = in.length();

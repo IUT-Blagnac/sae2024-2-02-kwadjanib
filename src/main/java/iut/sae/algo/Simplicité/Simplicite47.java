@@ -1,6 +1,6 @@
-package iut.sae.algo;
+package iut.sae.algo.Simplicité;
 
-public class simplicite {
+public class Simplicite47{
 
     // Méthode pour compresser une chaîne en utilisant l'algorithme RLE
     public static String RLE(String entree) {

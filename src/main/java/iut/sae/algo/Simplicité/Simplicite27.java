@@ -1,7 +1,10 @@
+package iut.sae.algo.Simplicité;
 
 
+//simplicite 27
 
-public class efficacite{
+
+public class Simplicite27{
     public static String RLE(String in){
         String newChaine= "";
         int cpt = 1 ;  // On initialise le compteur à 1 
