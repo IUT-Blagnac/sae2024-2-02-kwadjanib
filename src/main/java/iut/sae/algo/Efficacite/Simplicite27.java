@@ -1,4 +1,4 @@
-package iut.sae.algo.simplicite;
+package iut.sae.algo.efficacite;
 
 
 //simplicite 27
