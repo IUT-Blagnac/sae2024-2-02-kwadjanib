@@ -17,6 +17,7 @@ public class Simplicite56{
                 nbChar++;
                 if (nbChar == 10) {
                     resultat +=  9 + caracPrecedent;
+                    //resultat += "" + 9 + caracPrecedent; erreur dommage
                     nbChar = 1;
                 }
             } else {
