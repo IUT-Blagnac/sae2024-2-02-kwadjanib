@@ -3,8 +3,8 @@ package iut.sae.algo;
 import org.junit.Test;
 
 import junit.framework.TestCase;
+import iut.sae.algo.efficacite.*;
 import iut.sae.algo.simplicité.*;
-import iut.sae.algo.Efficacite.*;
 
 public class AlgoTest extends TestCase{
 

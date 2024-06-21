@@ -1,4 +1,4 @@
-package iut.sae.algo.Efficacite;
+package iut.sae.algo.efficacite;
 //algo30 efficacité
 import iut.sae.algo.AlgoException;
 
